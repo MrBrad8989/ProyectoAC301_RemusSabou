@@ -171,6 +171,5 @@ public class IntegrationTest {
 Si quieres, te preparo una plantilla de PR y una guía de estilo de commits.
 
 ## 📜 Licencia y contacto
-- Añade un fichero LICENSE si vas a publicar el repositorio (p. ej. MIT o Apache-2.0).
 - Autor: https://github.com/MrBrad8989
 - Usa Issues para errores o peticiones de mejora.
