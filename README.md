@@ -162,8 +162,6 @@ public class IntegrationTest {
   - main/resources/...
   - test/...
 
-Si quieres, puedo listar y documentar las clases dentro de `src/` y actualizar el README con ejemplos concretos.
-
 ## 🤝 Contribuir
 1. Fork del repositorio
 2. Crear rama: `feature/mi-cambio`
@@ -176,12 +174,3 @@ Si quieres, te preparo una plantilla de PR y una guía de estilo de commits.
 - Añade un fichero LICENSE si vas a publicar el repositorio (p. ej. MIT o Apache-2.0).
 - Autor: https://github.com/MrBrad8989
 - Usa Issues para errores o peticiones de mejora.
-
----
-
-¿Quieres que:
-- Genere un `persistence.xml` final adaptado a tus entidades?
-- Añada un ejemplo de test de integración con Testcontainers y un test real?
-- Liste las clases dentro de `src/` y agregue ejemplos concretos en el README?
-
-Dime cuál y lo preparo.
